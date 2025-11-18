@@ -4,11 +4,16 @@ Lecture note, Practical notebooks and mini-projects for CSC309 - Artificial_Inte
 
 🧪 Practical Notebooks
 
-## Week 1 Notebook
+## Week 1 - Turing_Test
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
 https://colab.research.google.com/github/Sakinat-Folorunso/CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week1_StudentCentred_Commented.ipynb)
 
 This repository contains AI practical notebooks for CSC 309.
 
 
+## Week 2 - Intelligent_Agents
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/Sakinat-Folorunso/CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week2_StudentCentred_Commented.ipynb)
+
+This repository contains AI practical notebooks for CSC 309.
