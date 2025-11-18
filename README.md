@@ -4,12 +4,17 @@ Lecture note, Practical notebooks and mini-projects for CSC309 - Artificial_Inte
 
 🧪 Practical Notebooks
 
-## Week 1 - Overview of Artificial Intelligence
 
-Notebook: `notebooks/CSC309_Week1_PH_Student_Centred.ipynb` 
+# CSC 309 – Artificial Intelligence (OOU)
+
+## Week 1 – Turing Test Practical (Student-Centred)
+
+Notebook: `notebooks/CSC309_Week1_PH_Student_Centred.ipynb`
+
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](
-https://colab.research.google.com/github/Sakinat-Folorunso/CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_Week1_StudentCentred_Commented.ipynb)
+https://colab.research.google.com/github/Sakinat-Folorunso/OOU_CSC309_Artificial_Intelligence/blob/main/notebooks/CSC309_W01_Turing_Test_Practical_Student_Centred.ipynb)
+
 
 
 ## Week 2 - Intelligent_Agents
